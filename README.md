@@ -1,2 +1,2 @@
-# Word-Embedding---Word2Vec
+# Word-Embedding-Word2Vec
 nlp exercise
